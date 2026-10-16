@@ -23,4 +23,3 @@ The page is a single file, `case-insights.html`. It has no `<html>`/`<head>`/`<b
 - **Concepts** (not in MVP): Fuse : Photon CLI and Agent & MCP
 - **Design notes** button hides requirement codes and rationale for a product-only view
 
-All data is made up. Some answers are scripted, and buttons that are not wired say so when clicked.
